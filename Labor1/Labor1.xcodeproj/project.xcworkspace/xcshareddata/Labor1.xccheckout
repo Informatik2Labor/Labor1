@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D952C283-5C8E-4275-BE3D-CE36DE803426</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Labor1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D61468A9-E0E9-467A-8427-00C63890C3D7</key>
+		<string>https://github.com/Informatik2Labor/Labor1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Labor1/Labor1.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D61468A9-E0E9-467A-8427-00C63890C3D7</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Informatik2Labor/Labor1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D61468A9-E0E9-467A-8427-00C63890C3D7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D61468A9-E0E9-467A-8427-00C63890C3D7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Labor Informatik 2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

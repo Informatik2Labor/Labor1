@@ -24,14 +24,14 @@ int main() {
     cout << "Nr\tOct\tHex\tString\tFixed\t\tScientific" << endl;
     for (int k = 1; k < 11; k++)
     {
-        cout << setiosflags (ios::showbase);
+        cout << setiosflags (ios::showbase | ios::right) << setprecision(3) << setfill(' ');
         cout << dec << k << "\t";
         cout << oct << k << "\t";
-        cout << hex << k << setiosflags (ios::showbase) << "\t";
+        cout << hex << k << "\t";
 //        cout << string( k % 5 + 1 , '∗' ) << "\t";
-        cout << "\t\t";
-        cout << fixed << d << "\t";;
-        cout << scientific << d;
+        cout << "\t\t";                     //String-Spalte überspringen
+        cout << showpos << setw(8) << fixed << d << noshowpos << "\t";;
+        cout << setw(10) << scientific << d;
         d = d*-2;
         cout << endl;
     }

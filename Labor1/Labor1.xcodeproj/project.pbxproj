@@ -299,6 +299,7 @@
 				586590F518E0739C00890C92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9C0E5B3318E070F90055B0F1 /* Build configuration list for PBXProject "Labor1" */ = {
 			isa = XCConfigurationList;

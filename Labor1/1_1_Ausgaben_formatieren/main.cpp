@@ -24,14 +24,13 @@ int main() {
     cout << "Nr\tOct\tHex\tString\tFixed\t\tScientific" << endl;
     for (int k = 1; k < 11; k++)
     {
-        cout << setiosflags (ios::showbase | ios::left) << setprecision(3);
+        cout << setiosflags (ios::showbase) << setprecision(3);
         cout << dec << k << "\t";
         cout << oct << k << "\t";
         cout << hex << k << "\t";
         cout << setfill('+') << setw(5) << string ( k % 5 + 1 , '*' ) << "\t";
-        cout << setiosflags(ios::showbase|ios::left) << setw(8) << setfill(' ');
-        cout << showpos << setw(8) << fixed << d << noshowpos << "\t";;
-        cout << setw(10) << scientific << d;
+        cout << setiosflags (ios::internal) << setfill(' ') << showpos << setw(8) << fixed << d << "\t";
+        cout << noshowpos << setw(10) << scientific << d;
         d = d*-2;
         cout << endl;
     }

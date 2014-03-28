@@ -7,11 +7,26 @@
 		<key>1_1_Ausgaben_formatieren.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>1_3_Pac-Man.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>58176D2918E5B30100B3A639</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>58176D3718E5B34400B3A639</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>586590EC18E0739C00890C92</key>
 		<dict>
 			<key>primary</key>

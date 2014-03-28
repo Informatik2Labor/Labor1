@@ -36,7 +36,7 @@ void initialisieren() {
 // Labyrinth auf dem Bildschirm ausgeben
 void drucken() {
     // Console frei machen
-    system(” c l s ”);
+    system(" c l s ");
     // Labyrinth ausgeben
     /* HIER */
 }
@@ -51,14 +51,14 @@ int min(int x, int y) {
 // Durch Herumlaufen werden Wege im Labyrinth erzeugt
 // ASCII-Wert der Tasten: oben 72, links 75, rechts 77, unten 80
 void erzeugen() {
-    char c = ’x’;
+    char c = 'x';
     int posx = kSpalten / 2;
     int posy = kZeilen / 2;
     labyrinth[posy][posx] = ICH;
     drucken();
-    while (c != ’q’) {
+    while (c != 'q') {
         drucken();
-        cout << ”Laufen mit Pfeiltasten . Beenden mit q.” << endl;
+        cout << "Laufen mit Pfeiltasten . Beenden mit q." << endl;
         labyrinth[posy][posx] = WEG;
         c = _getch();
         switch (int(c)) {

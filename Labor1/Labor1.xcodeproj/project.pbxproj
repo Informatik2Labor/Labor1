@@ -9,8 +9,6 @@
 /* Begin PBXBuildFile section */
 		586590F118E0739C00890C92 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 586590F018E0739C00890C92 /* main.cpp */; };
 		586590F318E0739C00890C92 /* __1_Ausgaben_formatieren.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 586590F218E0739C00890C92 /* __1_Ausgaben_formatieren.1 */; };
-		9C0E5B3C18E070F90055B0F1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9C0E5B3B18E070F90055B0F1 /* main.cpp */; };
-		9C0E5B3E18E070F90055B0F1 /* Labor1.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9C0E5B3D18E070F90055B0F1 /* Labor1.1 */; };
 		9C571C5318E5A6B8008A4FA5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9C571C5218E5A6B8008A4FA5 /* main.cpp */; };
 		9C571C5518E5A6B8008A4FA5 /* __3_Pac_Man.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9C571C5418E5A6B8008A4FA5 /* __3_Pac_Man.1 */; };
 /* End PBXBuildFile section */
@@ -23,16 +21,6 @@
 			dstSubfolderSpec = 0;
 			files = (
 				586590F318E0739C00890C92 /* __1_Ausgaben_formatieren.1 in CopyFiles */,
-			);
-			runOnlyForDeploymentPostprocessing = 1;
-		};
-		9C0E5B3618E070F90055B0F1 /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
-			dstSubfolderSpec = 0;
-			files = (
-				9C0E5B3E18E070F90055B0F1 /* Labor1.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
@@ -52,7 +40,6 @@
 		586590ED18E0739C00890C92 /* 1_1_Ausgaben_formatieren */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 1_1_Ausgaben_formatieren; sourceTree = BUILT_PRODUCTS_DIR; };
 		586590F018E0739C00890C92 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		586590F218E0739C00890C92 /* __1_Ausgaben_formatieren.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = __1_Ausgaben_formatieren.1; sourceTree = "<group>"; };
-		9C0E5B3818E070F90055B0F1 /* Labor1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Labor1; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C0E5B3B18E070F90055B0F1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		9C0E5B3D18E070F90055B0F1 /* Labor1.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Labor1.1; sourceTree = "<group>"; };
 		9C571C5018E5A6B8008A4FA5 /* 1_3_Pac-Man */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "1_3_Pac-Man"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,13 +49,6 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		586590EA18E0739C00890C92 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		9C0E5B3518E070F90055B0F1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -107,7 +87,6 @@
 		9C0E5B3918E070F90055B0F1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9C0E5B3818E070F90055B0F1 /* Labor1 */,
 				586590ED18E0739C00890C92 /* 1_1_Ausgaben_formatieren */,
 				9C571C5018E5A6B8008A4FA5 /* 1_3_Pac-Man */,
 			);
@@ -153,23 +132,6 @@
 			productReference = 586590ED18E0739C00890C92 /* 1_1_Ausgaben_formatieren */;
 			productType = "com.apple.product-type.tool";
 		};
-		9C0E5B3718E070F90055B0F1 /* Labor1 */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 9C0E5B4118E070F90055B0F1 /* Build configuration list for PBXNativeTarget "Labor1" */;
-			buildPhases = (
-				9C0E5B3418E070F90055B0F1 /* Sources */,
-				9C0E5B3518E070F90055B0F1 /* Frameworks */,
-				9C0E5B3618E070F90055B0F1 /* CopyFiles */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = Labor1;
-			productName = Labor1;
-			productReference = 9C0E5B3818E070F90055B0F1 /* Labor1 */;
-			productType = "com.apple.product-type.tool";
-		};
 		9C571C4F18E5A6B8008A4FA5 /* 1_3_Pac-Man */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9C571C5818E5A6B8008A4FA5 /* Build configuration list for PBXNativeTarget "1_3_Pac-Man" */;
@@ -208,7 +170,6 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9C0E5B3718E070F90055B0F1 /* Labor1 */,
 				586590EC18E0739C00890C92 /* 1_1_Ausgaben_formatieren */,
 				9C571C4F18E5A6B8008A4FA5 /* 1_3_Pac-Man */,
 			);
@@ -221,14 +182,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				586590F118E0739C00890C92 /* main.cpp in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		9C0E5B3418E070F90055B0F1 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				9C0E5B3C18E070F90055B0F1 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -335,20 +288,6 @@
 			};
 			name = Release;
 		};
-		9C0E5B4218E070F90055B0F1 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
-			};
-			name = Debug;
-		};
-		9C0E5B4318E070F90055B0F1 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
-			};
-			name = Release;
-		};
 		9C571C5618E5A6B8008A4FA5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -388,15 +327,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9C0E5B4118E070F90055B0F1 /* Build configuration list for PBXNativeTarget "Labor1" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				9C0E5B4218E070F90055B0F1 /* Debug */,
-				9C0E5B4318E070F90055B0F1 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		9C571C5818E5A6B8008A4FA5 /* Build configuration list for PBXNativeTarget "1_3_Pac-Man" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -404,6 +334,7 @@
 				9C571C5718E5A6B8008A4FA5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

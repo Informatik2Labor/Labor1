@@ -40,8 +40,6 @@
 		586590ED18E0739C00890C92 /* 1_1_Ausgaben_formatieren */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 1_1_Ausgaben_formatieren; sourceTree = BUILT_PRODUCTS_DIR; };
 		586590F018E0739C00890C92 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		586590F218E0739C00890C92 /* __1_Ausgaben_formatieren.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = __1_Ausgaben_formatieren.1; sourceTree = "<group>"; };
-		9C0E5B3B18E070F90055B0F1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		9C0E5B3D18E070F90055B0F1 /* Labor1.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Labor1.1; sourceTree = "<group>"; };
 		9C571C5018E5A6B8008A4FA5 /* 1_3_Pac-Man */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "1_3_Pac-Man"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C571C5218E5A6B8008A4FA5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		9C571C5418E5A6B8008A4FA5 /* __3_Pac_Man.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = __3_Pac_Man.1; sourceTree = "<group>"; };
@@ -77,7 +75,6 @@
 		9C0E5B2F18E070F90055B0F1 = {
 			isa = PBXGroup;
 			children = (
-				9C0E5B3A18E070F90055B0F1 /* Test */,
 				586590EF18E0739C00890C92 /* 1_1_Ausgaben_formatieren */,
 				9C571C5118E5A6B8008A4FA5 /* 1_3_Pac-Man */,
 				9C0E5B3918E070F90055B0F1 /* Products */,
@@ -91,16 +88,6 @@
 				9C571C5018E5A6B8008A4FA5 /* 1_3_Pac-Man */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		9C0E5B3A18E070F90055B0F1 /* Test */ = {
-			isa = PBXGroup;
-			children = (
-				9C0E5B3B18E070F90055B0F1 /* main.cpp */,
-				9C0E5B3D18E070F90055B0F1 /* Labor1.1 */,
-			);
-			name = Test;
-			path = Labor1;
 			sourceTree = "<group>";
 		};
 		9C571C5118E5A6B8008A4FA5 /* 1_3_Pac-Man */ = {

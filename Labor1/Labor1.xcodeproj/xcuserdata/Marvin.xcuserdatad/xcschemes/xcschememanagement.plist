@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>1_3_Pac-Man.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>Labor1.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -28,6 +33,11 @@
 			<true/>
 		</dict>
 		<key>9C0E5B3718E070F90055B0F1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9C571C4F18E5A6B8008A4FA5</key>
 		<dict>
 			<key>primary</key>
 			<true/>

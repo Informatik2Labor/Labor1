@@ -75,7 +75,7 @@
 		9C0E5B2F18E070F90055B0F1 = {
 			isa = PBXGroup;
 			children = (
-				9C0E5B3A18E070F90055B0F1 /* Labor1 */,
+				9C0E5B3A18E070F90055B0F1 /* Test */,
 				586590EF18E0739C00890C92 /* 1_1_Ausgaben_formatieren */,
 				9C0E5B3918E070F90055B0F1 /* Products */,
 			);
@@ -90,12 +90,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9C0E5B3A18E070F90055B0F1 /* Labor1 */ = {
+		9C0E5B3A18E070F90055B0F1 /* Test */ = {
 			isa = PBXGroup;
 			children = (
 				9C0E5B3B18E070F90055B0F1 /* main.cpp */,
 				9C0E5B3D18E070F90055B0F1 /* Labor1.1 */,
 			);
+			name = Test;
 			path = Labor1;
 			sourceTree = "<group>";
 		};

@@ -28,7 +28,7 @@ int main() {
         cout << dec << k << "\t";
         cout << oct << k << "\t";
         cout << hex << k << "\t";
-//        cout << string( k % 5 + 1 , '∗' ) << "\t";
+        //cout << string( k % 5 + 1 , '∗' ) << "\t";
         cout << "\t\t";                     //String-Spalte überspringen
         cout << showpos << setw(8) << fixed << d << noshowpos << "\t";;
         cout << setw(10) << scientific << d;

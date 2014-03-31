@@ -1,5 +1,5 @@
 /*****************************************************************
- *   Name Modul/Datei: Aufgabe 2:Pacman Spiel MAIN
+ *   Name Modul/Datei: Aufgabe 3:Pacman Spiel MAIN
  *
  *   Autoren: Marvin Wiegand (mawiit13@hs-esslingen.de), Roland Fronczek (rofrit01@hs-esslingen.de)
  

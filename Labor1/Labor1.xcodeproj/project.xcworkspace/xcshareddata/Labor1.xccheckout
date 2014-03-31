@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>0CA6A075-7130-4B94-92DE-DF8D285E9FC3</string>
+	<string>0120D367-1205-420B-9E7C-19F00DEE7CAC</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Labor1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>D61468A9-E0E9-467A-8427-00C63890C3D7</key>
-		<string>https://github.com/Informatik2Labor/Labor1.git</string>
+		<key>F2A4172E-2033-432D-9BB6-793926A70608</key>
+		<string>https://github.com/Informatik2Labor/Labor1</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Labor1/Labor1.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D61468A9-E0E9-467A-8427-00C63890C3D7</key>
+		<key>F2A4172E-2033-432D-9BB6-793926A70608</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Informatik2Labor/Labor1.git</string>
+	<string>https://github.com/Informatik2Labor/Labor1</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D61468A9-E0E9-467A-8427-00C63890C3D7</string>
+	<string>F2A4172E-2033-432D-9BB6-793926A70608</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>D61468A9-E0E9-467A-8427-00C63890C3D7</string>
+			<string>F2A4172E-2033-432D-9BB6-793926A70608</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Labor Informatik 2</string>
+			<string>Informatik2</string>
 		</dict>
 	</array>
 </dict>

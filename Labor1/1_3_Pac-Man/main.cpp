@@ -1,6 +1,4 @@
 /*
- *   Name Modul/Datei: Aufgabe 3: Ein einfaches Pac-Man-Spiel - Teil 1
-=======
  *   Name Modul/Datei: Aufgabe 3:Pacman Spiel MAIN
  *
  *   Autoren: Marvin Wiegand (mawiit13@hs-esslingen.de), Roland Fronczek (rofrit01@hs-esslingen.de)
